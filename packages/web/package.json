@@ -1,4 +1,5 @@
 {
+  "homepage": "https://syedshamsher.github.io/reno-assignment",
   "name": "landscape-calculator",
   "version": "1.0.0",
   "description": "",
@@ -6,7 +7,7 @@
   "scripts": {
     "start": "export NODE_OPTIONS=--max_old_space_size=12288  && webpack serve --open --config ./internals/webpack/webpack.dev.ts --progress",
     "start:docker": "node --max_old_space_size=8094 --max-http-header-size=16384 node_modules/webpack-dev-server/bin/webpack-dev-server.js --config ./internals/webpack/webpack.dev.ts",
-    "build-dev": "export NODE_OPTIONS=--max_old_space_size=8192 && rimraf dist && lerna bootstrap && cross-env NODE_ENV=production webpack --config ./internals/webpack/webpack.dev.ts",
+    "build-dev": "cross-env NODE_ENV=production webpack --config ./internals/webpack/webpack.dev.ts",
     "build-extdev": "export NODE_OPTIONS=--max_old_space_size=16384 && rimraf dist --concurrency=4 --no-ci && cross-env NODE_ENV=production webpack --config ./internals/webpack/webpack.extdev.ts --progress",
     "lint:eslint:fix": "eslint src/** --ignore-path .gitignore --fix",
     "test": "export NODE_OPTIONS=--max_old_space_size=8192 && jest -c ./internals/jest/jest.config.js",

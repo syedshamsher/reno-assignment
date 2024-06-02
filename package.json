@@ -1,7 +1,10 @@
 {
+  "homepage": "https://syedshamsher.github.io/reno-assignment",
   "name": "root",
   "private": true,
   "scripts": {
+    "predeploy": "yarn && yarn --cwd packages/web build-dev",
+    "deploy": "gh-pages -d packages/web build-dev",
     "start": "yarn && yarn --cwd packages/web start",
     "build-dev": "yarn && yarn --cwd packages/web build-dev",
     "build-extdev": "yarn && yarn --cwd packages/web build-extdev",
@@ -27,6 +30,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.31.10",
     "eslint-plugin-react-hooks": "4.6.0",
+    "gh-pages": "^6.1.1",
     "husky": "8.0.0",
     "lerna": "6.0.1",
     "lint-staged": "13.2.2",
