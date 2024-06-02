@@ -1,0 +1,832 @@
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/dashboard/index.module.scss ***!
+  \***************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600;700&display=swap);
+/*!*******************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/dashboard/index.module.scss (1) ***!
+  \*******************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;1,400&display=swap);
+/*!*******************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/dashboard/index.module.scss (2) ***!
+  \*******************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap);
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/index.module.scss ***!
+  \*************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600;700&display=swap);
+/*!*****************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/index.module.scss (1) ***!
+  \*****************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;1,400&display=swap);
+/*!*****************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/index.module.scss (2) ***!
+  \*****************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap);
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/summary-widget/index.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600;700&display=swap);
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/summary-widget/index.module.scss (1) ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;1,400&display=swap);
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/summary-widget/index.module.scss (2) ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap);
+/*!**************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/index.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600;700&display=swap);
+/*!******************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/index.module.scss (1) ***!
+  \******************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;1,400&display=swap);
+/*!******************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/index.module.scss (2) ***!
+  \******************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap);
+/*!*******************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/dashboard/index.module.scss (3) ***!
+  \*******************************************************************************************************************************************************************************************************/
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+body {
+  margin: 0;
+  font-family: var(--body-font);
+  background-color: #fff;
+}
+
+main {
+  font-family: var(--body-font);
+  background-color: #fff;
+}
+
+.index-module__layout--1wJOU {
+  height: 100vh;
+  background: "cover";
+  background-image: url(/8c7049d897a5dc424518eee91d157e3d.svg);
+}
+
+.index-module__header--2V85w {
+  background-color: #fff;
+  box-shadow: 0 0 6px rgba(51, 51, 51, 0.15);
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.index-module__header--2V85w .index-module__logo--U2f6k {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.index-module__header-title--N-BO3 {
+  color: white;
+  margin: 16px;
+  text-align: center;
+  font-family: var(--body-font);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+}
+
+.index-module__content--cP7Z1 {
+  padding: 0px 24px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+.index-module__content--cP7Z1 .index-module__calculator-and-summary-wrapper--1HeXy {
+  display: grid;
+  grid-template-columns: 1fr 0.8fr;
+  gap: 20px;
+}
+.index-module__content--cP7Z1 .index-module__main-title--EE8A9 {
+  font-size: 55px;
+  color: white;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.index-module__content--cP7Z1 .index-module__sub-title--19_3n {
+  font-size: 25px;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+@media (min-width: 1110px) {
+  .index-module__content--cP7Z1 {
+    width: 70%;
+  }
+}
+
+.index-module__previous-button--1gEai {
+  background-color: #f2f4f6;
+  border: none;
+  margin-right: 20px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.2);
+  background-color: #bebebe;
+}
+
+.index-module__progress-bar--wa8bQ {
+  margin-top: -11px;
+  margin-bottom: 20px;
+}
+.index-module__progress-bar--wa8bQ .ant-progress-inner {
+  height: 3px;
+}
+
+.index-module__currency-switch--up-SM {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.index-module__calculator-button--3qc0p {
+  width: 200px;
+  border-radius: 8px;
+  opacity: 1;
+  transform: none;
+  min-height: 45px;
+  min-width: 80px;
+  font-size: 18px;
+  font-weight: 600;
+  width: fit-content;
+  height: 60px;
+  background: linear-gradient(135deg, #6252e1, #101e60);
+  color: white;
+}
+.index-module__calculator-button--3qc0p :hover {
+  background: linear-gradient(135deg, #6252e1, #101e60);
+}
+/*!*****************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/index.module.scss (3) ***!
+  \*****************************************************************************************************************************************************************************************************************************/
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+.index-module__widget-form--2YBn0 {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.index-module__widget-form--2YBn0 .ant-form-item-required {
+  font-weight: 700;
+  font-size: 14px;
+  font-family: var(--body-font);
+}
+.index-module__widget-form--2YBn0 .ant-form-item-label {
+  font-weight: 700;
+  font-size: 14px;
+  font-family: var(--body-font);
+  padding: 0;
+}
+.index-module__widget-form--2YBn0 .ant-form-item-label label {
+  font-size: 14px;
+  font-family: var(--body-font);
+}
+@keyframes index-module__fade-in--1nxU8 {
+  from {
+    opacity: 0;
+    transform: translateY(0) translateX(400px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) translateX(0);
+  }
+}
+.index-module__widget-form--2YBn0 .index-module__fields--3Uedv {
+  animation: index-module__fade-in--1nxU8 0.5s ease-in-out forwards 0s;
+}
+.index-module__widget-form--2YBn0 .index-module__fields--3Uedv .index-module__field-description--MuQpJ {
+  color: #101e60;
+}
+.index-module__widget-form--2YBn0 .index-module__fields--3Uedv .index-module__segmented--2aU0w .ant-segmented-item {
+  transition: #101e60 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.index-module__widget-form--2YBn0 .index-module__fields--3Uedv .index-module__segmented--2aU0w .ant-segmented-item-selected {
+  background-color: #101e60;
+  color: white;
+}
+.index-module__widget-form--2YBn0 .index-module__fields--3Uedv .index-module__segmented--2aU0w .ant-segmented-thumb {
+  background-color: #101e60;
+  color: white;
+}
+
+.index-module__button-container--1n5Ox {
+  display: flex;
+  gap: 20px;
+}
+.index-module__button-container--1n5Ox .index-module__prev-button--2u9ty,
+.index-module__button-container--1n5Ox .index-module__next-button--JA3XS {
+  border-radius: 8px;
+  opacity: 1;
+  transform: none;
+  min-height: 45px;
+  min-width: 80px;
+  font-size: 18px;
+  font-weight: 600;
+}
+/*!************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/price-card/index.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************/
+.index-module__slide--1Jb3L {
+  transition: 0.5s;
+}
+
+.index-module__slide--1Jb3L:hover {
+  transform: translateY(-5px);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.index-module__card--1cJBy {
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 72px 120px 0 rgba(0, 0, 0, 0.16);
+  max-width: 400px;
+  max-height: 800px;
+}
+.index-module__card--1cJBy .index-module__buy--2N2pd {
+  color: #101e60;
+  border: 1px solid #101e60;
+  padding: 12px;
+  border-radius: 0%;
+  text-align: center;
+}
+.index-module__card--1cJBy .index-module__bestplan--2o1CE {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-bottom-left-radius: 16px;
+  background: #ffc561;
+  border-top-right-radius: 16px;
+  padding: 5px;
+  font-size: 14px;
+  color: #1f3cc1;
+  font-weight: 600;
+  width: 125px;
+  text-align: center;
+  box-shadow: 0 4px 32px 0 rgba(255, 197, 97, 0.24);
+}
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/components/summary-widget/index.module.scss (3) ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+.index-module__summary--2CYJ- {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 200px;
+}
+.index-module__summary--2CYJ- .index-module__action--7wyyI {
+  height: 100px;
+  background-color: #f7f9fb;
+  border-radius: 5px;
+}
+.index-module__summary--2CYJ- .index-module__description--31JLg {
+  height: 400px;
+  background-color: #f7f9fb;
+  border-radius: 5px;
+}
+.index-module__summary--2CYJ- .index-module__description--31JLg img {
+  width: 100%;
+  height: 100%;
+}
+/*!******************************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!../../node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/features/landscape-calculator/index.module.scss (3) ***!
+  \******************************************************************************************************************************************************************************************************************/
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+:root {
+  --theme-color: #101e60;
+  --title-color: #101e60;
+  --body-color: #080f30;
+  --grey-color: #656b75;
+  --smoke-color: #f6f5f3;
+  --smoke-color2: #fff4ef;
+  --smoke-color3: #f5f5f6;
+  --smoke-color4: #f4f4f4;
+  --smoke-color5: #f0f2f4;
+  --black-color: #080f30;
+  --gray-color: #131312;
+  --white-color: #fff;
+  --light-color: #9fa2ad;
+  --yellow-color: #ffb539;
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --border-color: #e3e3e3;
+  --link-font: "Poppins",sans-serif;
+  --title-font: "Poppins",sans-serif;
+  --body-font: "Poppins",sans-serif;
+  --icon-font: "Font Awesome 5 Free";
+  --main-container: 1296px;
+  --container-gutters: 24px;
+  --section-space: 140px;
+  --section-space-mobile: 80px;
+  --section-title-space: 65px;
+  --ripple-ani-duration: 5s;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700 ;
+}
+
+/* FONT SIZE */
+/* LINE HEIGHT */
+/* FONT WEIGHT */
+/* CONSTANTS */
+/* Screen Size */
+/*
+    #-# COLORS #-#
+*/
+/* Black */
+/* Grey */
+/* White */
+/* Red */
+/* Green */
+/* Yellow */
+/* Blue */
+/* Violet */
+/* LOGOS */
+/* STYLE VARIABLES */
+/* DEFAULT VARIABLES */
+body {
+  margin: 0;
+  font-family: var(--body-font);
+  background-color: #fff;
+}
+
+main {
+  font-family: var(--body-font);
+  background-color: #fff;
+}
+
+.index-module__layout--2Ks7_ {
+  background-color: #fff;
+}
+
+.index-module__header--3OP3p {
+  background-color: #fff;
+  box-shadow: 0 0 6px rgba(51, 51, 51, 0.15);
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.index-module__header--3OP3p .index-module__logo--2yPYM {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.index-module__header-title--vh7Dc {
+  color: white;
+  margin: 16px;
+  text-align: center;
+  font-family: var(--body-font);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+}
+
+.index-module__content--1H0qL {
+  padding: 0px 24px;
+  background-color: #fff;
+  margin: 0 auto;
+  width: 100%;
+}
+.index-module__content--1H0qL .index-module__calculator-and-summary-wrapper--DBY__ {
+  display: grid;
+  grid-template-columns: 1fr 0.8fr;
+  gap: 20px;
+}
+@media (min-width: 1110px) {
+  .index-module__content--1H0qL {
+    width: 70%;
+  }
+}
+
+.index-module__previous-button--Y0_E6 {
+  background-color: #f2f4f6;
+  border: none;
+  margin-right: 20px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.2);
+  background-color: #bebebe;
+}
+
+.index-module__progress-bar--2FSo- {
+  margin-top: -11px;
+  margin-bottom: 20px;
+}
+.index-module__progress-bar--2FSo- .ant-progress-inner {
+  height: 3px;
+}
+
+.index-module__currency-switch--2pfkt {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.index-module__results-container--kvDEZ {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=main.css.map*/
