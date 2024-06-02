@@ -1,0 +1,20 @@
+{
+  "name": "@app/components",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "mocha --require ts-node/register ./tests/**/*.ts",
+    "typescript": "tsc -p tsconfig.json"
+  },
+  "peerDependencies": {
+    "@ant-design/icons": "*",
+    "@app/shared-components": "*",
+    "antd": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-query": "*"
+  },
+  "devDependencies": {}
+}

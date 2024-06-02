@@ -1,0 +1,41 @@
+@import '@app/shared-components/src/_mixin.scss';
+@import '@app/shared-components/src/_variables.scss';
+
+.widget-form {
+  @include input-label-bold($font-size-md);
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  .fields {
+    @include fade-in($translateX: 400px);
+
+    .field-description {
+      color: #101e60;
+    }
+
+    .segmented {
+      :global(.ant-segmented-item) {
+        transition: #101e60 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+      }
+      :global(.ant-segmented-item-selected) {
+        background-color: #101e60;
+        color: white;
+      }
+
+      :global(.ant-segmented-thumb) {
+        background-color: #101e60;
+        color: white;
+      }
+    }
+  }
+}
+
+.button-container {
+  display: flex;
+  gap: 20px;
+  .prev-button,
+  .next-button {
+    @include primary-button;
+  }
+}

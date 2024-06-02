@@ -1,0 +1,25 @@
+@import '@app/shared-components/src/_mixin.scss';
+@import '@app/shared-components/src/_variables.scss';
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 200px;
+  .action {
+    height: 100px;
+    background-color: #f7f9fb;
+    border-radius: 5px;
+  }
+
+  .description {
+    height: 400px;
+    background-color: #f7f9fb;
+    border-radius: 5px;
+
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
